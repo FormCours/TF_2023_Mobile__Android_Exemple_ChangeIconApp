@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Demo change Icone</string>
+    <string name="btn_choice_1">Choisir l\'icone 1</string>
+    <string name="btn_choice_2">Choisir l\'icone 2</string>
+    <string name="btn_restore">Restaurer l\'icone</string>
+</resources>
